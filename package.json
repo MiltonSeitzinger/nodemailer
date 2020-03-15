@@ -1,0 +1,22 @@
+{
+  "name": "nodemailerjs",
+  "version": "1.0.0",
+  "description": "Enviar Emails a través de NodeJs con Nodemailer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiltonSeitzinger/nodemailerJs.git"
+  },
+  "author": "Seitzinger Milton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiltonSeitzinger/nodemailerJs/issues"
+  },
+  "homepage": "https://github.com/MiltonSeitzinger/nodemailerJs#readme",
+  "dependencies": {
+    "nodemailer": "^6.4.5"
+  }
+}
